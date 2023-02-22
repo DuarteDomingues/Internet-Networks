@@ -9,8 +9,7 @@ Licenciatura Engenharia Informática e Multimédia - ISEL
 
 Three Internet Network projects.
 
-#### The first project is based on VLAN, protocols STP and RSTP, 
-static addressing and RIP. 
+#### The first project is based on VLAN, protocols STP and RSTP, static addressing and RIP. 
 * The Network simulator used was Packet Tracer.
 
 #### The second project is based on the OSPF protocol. 
